@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?><target name="CommonAPI - Eclipse 4.17" sequenceNumber="58">
 <locations>
-		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		<location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">
 			<repository location="https://download.eclipse.org/eclipse/updates/4.17"/>
-			<unit id="org.eclipse.equinox.executable.feature.group" version="0.0.0"/>
-			<unit id="org.eclipse.equinox.sdk.feature.group" version="0.0.0"/>
-			<unit id="org.eclipse.sdk.feature.group" version="0.0.0"/>
+			<unit id="org.eclipse.equinox.executable.feature.group" version="3.8.900.v20200819-0940"/>
+			<unit id="org.eclipse.equinox.sdk.feature.group" version="3.20.300.v20200828-1034"/>
+			<unit id="org.eclipse.platform.sdk" version="4.17.0.I20200902-1800"/>
 		</location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">
 <unit id="org.eclipse.cdt.sdk.feature.group" version="9.5.3.201809121146"/>
 <repository location="http://download.eclipse.org/releases/2018-09"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.xtext.sdk.feature.group" version="2.11.0.v20170201-0242"/>
+<unit id="org.eclipse.xtext.sdk.feature.group" version="2.25.0.v20210301-1429"/>
 <repository location="http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="planner" includeSource="true" type="InstallableUnit">

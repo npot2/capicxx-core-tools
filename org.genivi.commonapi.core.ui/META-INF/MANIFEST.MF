@@ -9,6 +9,7 @@ Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.10.0,4.0.0)";visibil
  org.eclipse.core.resources;bundle-version="[3.9.0,4.0.0)";visibility:=reexport,
  org.eclipse.core.expressions;bundle-version="[3.4.400,4.0.0)";visibility:=reexport,
  org.eclipse.ui,
+ com.google.inject;bundle-version="5.0.1";visibility:=reexport,
  org.eclipse.xtext.ui;bundle-version="[2.7.0,3.0.0)";visibility:=reexport,
  org.eclipse.xtext.ui.ecore;bundle-version="[2.7.0,3.0.0)";visibility:=reexport,
  org.eclipse.xtext.builder;bundle-version="[2.7.0,3.0.0)";visibility:=reexport,
